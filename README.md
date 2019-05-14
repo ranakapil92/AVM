@@ -11,7 +11,7 @@ One important thing in SVM.py, we are taking input from user for selecting betwe
 linear_svm, kernel_svm, soft_svm. If you don’t want this interactive version, just go to
 bottom of code SVM.py, remove the loop.
 
-2. Please install modules required
+Please install modules required
 
 a. CVXOPT: for solving optimization problem
 
