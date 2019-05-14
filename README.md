@@ -12,6 +12,8 @@ line is for running SVM with no data and second line is SVM with IRIS data. You 
 parallelly in separate terminal but it might slow your system.
 
 python3.5 SVM.py
+
+
 python3.5 SVM_IRIS.py
 
 One important thing in SVM.py, we are taking input from user for selecting between
